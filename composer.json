@@ -1,0 +1,43 @@
+{
+    "name": "gebrail/facturacion",
+    "description": "Este paquete funciona para traer las facturas del sistema de informaci\u0000n principal",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WILSON GEBRAIL BARRERA HERNANDEZ",
+            "email": "wilsongebrai@hotmail.com"
+        }
+    ],
+    "require": {
+        "gebrail/conexion-api": "^1.0"
+    },
+    "autoload":{
+
+        "psr-4": {
+            "Gebrail\\Facturacion\\" : "src/"
+        }
+
+    },
+    "autoload-dev": {
+
+        "psr-4": {
+            "Gebrail\\Facturacion\\Tests\\" : "tests/"
+        }
+
+    },    
+    "require-dev": {
+        "orchestra/testbench": "^5.1"
+    },
+    
+    "extra":{
+        "laravel":{
+            "providers":[
+                "Gebrail\\Facturacion\\FacturacionServiceProvider",
+                "Gebrail\\Facturacion\\RouteServiceProvider"
+            ],
+            "aliases":{
+                "Facturacion": "Gebrail\\Facturacion\\Facades\\Facturacion"
+            }
+        }
+    }    
+}
