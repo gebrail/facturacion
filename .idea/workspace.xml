@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b7e1435-71ca-459d-adfb-70f62d7eb312" name="Default Changelist" comment="" />
+    <list default="true" id="0b7e1435-71ca-459d-adfb-70f62d7eb312" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Http/Controllers/FacturacionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Http/Controllers/FacturacionController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +112,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ZJSTv7m8JfmuH9ZEfvL5Gmb9Ls" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -113,7 +124,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/autoload.php" />
-    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,7 +198,29 @@
       <workItem from="1584586325609" duration="1783000" />
       <workItem from="1584588291209" duration="1785000" />
       <workItem from="1584591149413" duration="1783000" />
-      <workItem from="1584592963080" duration="243000" />
+      <workItem from="1584592963080" duration="487000" />
+      <workItem from="1584593502473" duration="4000" />
+      <workItem from="1584642022844" duration="1129000" />
+      <workItem from="1584643219007" duration="1778000" />
+      <workItem from="1584645026639" duration="1780000" />
+      <workItem from="1584646835665" duration="318000" />
+      <workItem from="1584649942500" duration="2290000" />
+      <workItem from="1584653670178" duration="1852000" />
+      <workItem from="1584668353008" duration="1778000" />
+      <workItem from="1584670254062" duration="1041000" />
+      <workItem from="1584672234496" duration="1076000" />
+      <workItem from="1584910322577" duration="1718000" />
+      <workItem from="1584912073536" duration="1681000" />
+      <workItem from="1584980819749" duration="715000" />
+      <workItem from="1584988719733" duration="697000" />
+      <workItem from="1584997363426" duration="1785000" />
+      <workItem from="1584999179679" duration="2233000" />
+      <workItem from="1585004375381" duration="1782000" />
+      <workItem from="1585006183373" duration="1787000" />
+      <workItem from="1585008002090" duration="1789000" />
+      <workItem from="1585009817085" duration="1785000" />
+      <workItem from="1585011682104" duration="1787000" />
+      <workItem from="1585013496719" duration="132000" />
     </task>
     <servers />
   </component>
@@ -211,14 +244,18 @@
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state x="1732" y="0" key="#PHP/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584556142593" />
-    <state x="1736" y="140" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584563203722">
+    <state x="1736" y="140" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584643743908">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
-    <state x="1736" y="140" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584563203722" />
-    <state x="1786" y="139" key="FileChooserDialogImpl" timestamp="1584556069425">
+    <state x="1736" y="140" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584643743908" />
+    <state x="1629" y="0" key="CommitChangelistDialog2" timestamp="1584668971033">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
-    <state x="1786" y="139" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584556069425" />
+    <state x="1629" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584668971033" />
+    <state x="1786" y="139" key="FileChooserDialogImpl" timestamp="1584642116802">
+      <screen x="1366" y="0" width="1280" height="768" />
+    </state>
+    <state x="1786" y="139" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584642116802" />
     <state width="1281" height="199" key="GridCell.Tab.0.bottom" timestamp="1584570539755">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
@@ -235,18 +272,18 @@
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state width="1281" height="199" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584570539754" />
-    <state x="1774" y="183" key="NewPhpClassDialog" timestamp="1584564033540">
+    <state x="1774" y="183" key="NewPhpClassDialog" timestamp="1584643247858">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
-    <state x="1774" y="183" key="NewPhpClassDialog/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584564033540" />
-    <state x="1840" y="304" key="NewPhpFileDialog" timestamp="1584578447269">
+    <state x="1774" y="183" key="NewPhpClassDialog/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584643247858" />
+    <state x="1840" y="304" key="NewPhpFileDialog" timestamp="1584645455616">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
-    <state x="1840" y="304" key="NewPhpFileDialog/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584578447269" />
-    <state x="1507" y="27" key="SettingsEditor" timestamp="1584556092669">
+    <state x="1840" y="304" key="NewPhpFileDialog/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584645455616" />
+    <state x="1507" y="27" key="SettingsEditor" timestamp="1584642121843">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
-    <state x="1507" y="27" key="SettingsEditor/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584556092669" />
+    <state x="1507" y="27" key="SettingsEditor/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584642121843" />
     <state x="1682" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1584570645814">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
@@ -255,9 +292,9 @@
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state x="1366" y="0" width="758" height="768" key="find.popup/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584555976033" />
-    <state x="1662" y="172" key="run.anything.popup" timestamp="1584579019689">
+    <state x="1662" y="172" key="run.anything.popup" timestamp="1584653853787">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
-    <state x="1662" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584579019689" />
+    <state x="1662" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1280.768@1366.0.1280.768" timestamp="1584653853787" />
   </component>
 </project>

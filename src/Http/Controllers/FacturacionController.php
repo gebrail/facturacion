@@ -2,27 +2,32 @@
 
 namespace Gebrail\Facturacion\Http\Controllers;
 
-use Gebrail\Facturacion\Facades\Facturacion;
-use Gebrail\Facturacion\Services\FacturaService;
+use Gebrail\Facturacion\Repositories\FacturasRepositorie;
 
 class FacturacionController 
 {
-    protected  $facturaService;
+    protected  $facturas_repositorie;
 
-    public function __construct(FacturaService $facturaService)
+    public function __construct(FacturasRepositorie $facturas_repositorie)
     {
-        $this->facturaService = $facturaService;
+        $this->facturas_repositorie=$facturas_repositorie;
     }
 
+    public function listar()
+    {
+        return $this->facturas_repositorie->ListarFacturas();
+    }
 
     public function index()
     {
-        $sistema =  $this->facturaService->getMisistema();
+        $sistema = $this->facturas_repositorie->ObtenerSistema();
 
-        $facturas = $this->facturaService->getFacturas();
+        return view('facturacion-gebrail::index',compact(['sistema']));
+    }
 
-
-        return view('facturacion-gebrail::index',compact(['facturas','sistema']));
+    public function show($id)
+    {
+        dd($id);
     }
 
 }

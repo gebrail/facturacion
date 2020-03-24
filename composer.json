@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-        "gebrail/conexion-api": "^1.0"
+        "gebrail/conexion-api": "^1.0",
+        "yajra/laravel-datatables-oracle": "^9.0"
     },
     "autoload":{
 
